@@ -3,5 +3,10 @@
   "interface": {
     "displayName": "MyCrew 社区"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "hub-plugin-smoke-20261019",
+      "source": "plugins/145326144/hub-plugin-smoke-20261019/a617099f3701a7bd"
+    }
+  ]
 }
